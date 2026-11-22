@@ -12,8 +12,8 @@ from pathlib import Path
 TEXT = (
     "Rain has settled on the tin roof \u2014 tick, pause, tick \u2014 and warm "
     "light pools in the kitchen doorway. The kettle keeps its small, "
-    "patient mutter. Beyond the glass the day thins to drips, one by "
-    "one, into the dark garden, and the house holds the sound the way "
+    "patient mutter. Beyond the glass the day thins, drip by drip, "
+    "into the dark garden, and the house holds the sound the way "
     "a cup holds tea."
 )
 
